@@ -1,0 +1,24 @@
+{
+    "manifest_version": 3,
+    "name": "Outlook - No Ads",
+    "version": "1.0",
+    "description": "Removes unwanted ads from Outlook.com for a cleaner experience.",
+    "permissions": ["scripting"],
+    "host_permissions": ["https://outlook.com/*", "https://www.outlook.com/*", "https://outlook.live.com/*"],
+    "background": {
+      "service_worker": "scripts/background.js"
+    },
+    "icons": {
+      "128": "icons/128.png",
+      "48": "icons/48.png",
+      "32": "icons/32.png",
+      "16": "icons/16.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://outlook.com/*", "https://www.outlook.com/*", "https://outlook.live.com/*"],
+        "js": ["scripts/content.js"],
+        "run_at": "document_start"
+      }
+    ]
+  }
