@@ -5,9 +5,6 @@
     "description": "Removes unwanted ads from Outlook.com for a cleaner experience.",
     "permissions": ["scripting"],
     "host_permissions": ["https://outlook.com/*", "https://www.outlook.com/*", "https://outlook.live.com/*"],
-    "background": {
-      "service_worker": "scripts/background.js"
-    },
     "icons": {
       "128": "icons/128.png",
       "48": "icons/48.png",
