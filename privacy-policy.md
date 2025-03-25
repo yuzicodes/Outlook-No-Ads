@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** March 21, 2025
+**Last Updated:** March 25, 2025
 
 ## 1. Introduction  
 "**Outlook - No Ads**" is a Chrome extension designed to remove intrusive ads from Outlook.com. This extension is committed to user privacy and does not collect, store, or share any personal data.  
@@ -11,7 +11,6 @@ This extension does **not** collect, store, or transmit any personal information
 ## 3. Permissions Used & Justification  
 The extension requires the following permissions:  
 - **Host Permission (`https://outlook.com/*`)** – This is necessary to detect and remove ad elements from Outlook.com.  
-- **Scripting Permission** – Used to modify the webpage by removing ads.  
 
 > [!IMPORTANT]
 > These permissions are used **exclusively** to fulfill the extension’s primary function and do not grant access to any personal user data.  
