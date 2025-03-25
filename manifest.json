@@ -3,7 +3,6 @@
     "name": "Outlook - No Ads",
     "version": "1.0",
     "description": "Removes unwanted ads from Outlook.com for a cleaner experience.",
-    "permissions": ["scripting"],
     "host_permissions": ["https://outlook.com/*", "https://www.outlook.com/*", "https://outlook.live.com/*"],
     "icons": {
       "128": "icons/128.png",
