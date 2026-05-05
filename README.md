@@ -18,7 +18,7 @@ Outlook - No Ads is a lightweight Chrome extension designed to remove unwanted a
 ### Manual Installation (Developer Mode)
 1. Download or clone this repository:
 ```bash
-   git clone https://github.com/yuzicodes/Outlook-No-Ads.git
+   git clone https://github.com/yuzzzie/Outlook-No-Ads.git
 ```
 2. Open **Chrome** and go to `chrome://extensions/`  
 3. Enable **Developer Mode** (top-right corner)  
@@ -35,8 +35,8 @@ This extension requires access to:
 
 ## Support the Developer ❤️
 If you like this extension, you can **support me** by:
-- [Star this respository](https://github.com/yuzicodes/Outlook-No-Ads)  
-- [Follow me on X](https://x.com/yuzicodes)
+- [Star this respository](https://github.com/yuzzzie/Outlook-No-Ads)  
+- [Follow me on X](https://x.com/yuzzziee)
 
 ---
 
